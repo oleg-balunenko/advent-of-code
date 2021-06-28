@@ -97,6 +97,8 @@ func Test_solution_Part1(t *testing.T) {
 }
 
 func Test_solution_Part2(t *testing.T) {
+	t.Skip()
+
 	type fields struct {
 		name string
 	}
